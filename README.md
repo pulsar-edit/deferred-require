@@ -1,3 +1,5 @@
+# This Repo is archived under Pulsar-Edit since it is not used.
+
 # Deferred Require
 
 **Using this module requires that you run node with the `--harmony_proxies` and
